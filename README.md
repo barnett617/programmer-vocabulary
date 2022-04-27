@@ -16,3 +16,10 @@ Vocabularies for programmers
 | Word | 中文 |
 | ---- | ---- |
 | resolution | 分辨率，解析度 |
+
+## Browser
+
+| Word | 中文 | 示例 |
+| Gecko | 壁虎 | Firefox渲染引擎 |
+| Blink | 闪烁 | Chrome/Opera/Edge渲染引擎 |
+| Webkit |    | Safari渲染引擎 |

@@ -37,3 +37,4 @@ Vocabularies for programmers
 | ---- | ---- |
 | truncate | 截断 |
 | potential | 潜在的，可能的 |
+| periodical | 周期的 |

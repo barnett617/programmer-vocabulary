@@ -36,3 +36,4 @@ Vocabularies for programmers
 | Word | 中文 |
 | ---- | ---- |
 | truncate | 截断 |
+| potential | 潜在的，可能的 |

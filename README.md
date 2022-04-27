@@ -10,3 +10,9 @@ Vocabularies for programmers
 | semicolon       | 分号     | ;       | ；       |     |
 | slash           | 斜杠     | /       |         |      |
 | delimiter       | 分隔符   |         |         |       |
+
+## UI
+
+| Word | 中文 |
+| ---- | ---- |
+| resolution | 分辨率，解析度 |

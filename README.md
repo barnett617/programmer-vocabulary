@@ -17,6 +17,12 @@ Vocabularies for programmers
 | ---- | ---- |
 | resolution | 分辨率，解析度 |
 
+## CSS
+
+| Word | 中文 |
+| ---- | --- |
+| ellipsis | 省略号 |
+
 ## Browser
 
 | Word | 中文 | 示例 |
@@ -24,3 +30,9 @@ Vocabularies for programmers
 | Gecko | 壁虎 | Firefox渲染引擎 |
 | Blink | 闪烁 | Chrome/Opera/Edge渲染引擎 |
 | Webkit |    | Safari渲染引擎 |
+
+## Common
+
+| Word | 中文 |
+| ---- | ---- |
+| truncate | 截断 |

@@ -39,5 +39,4 @@ Vocabularies for programmers
 | potential | 潜在的，可能的 | |
 | periodical | 周期的 | |
 | integrity | 完整性 | |
-| conserve | 节省 | conserve bandwidth - 节省带宽
- |
+| conserve | 节省 | conserve bandwidth - 节省带宽 |

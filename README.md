@@ -11,12 +11,6 @@ Vocabularies for programmers
 | slash           | 斜杠     | /       |         |      |
 | delimiter       | 分隔符   |         |         |       |
 
-## UI
-
-| Word | 中文 |
-| ---- | ---- |
-| resolution | 分辨率，解析度 |
-
 ## CSS
 
 | Word | 中文 |
@@ -40,3 +34,21 @@ Vocabularies for programmers
 | periodical | 周期的 | |
 | integrity | 完整性 | |
 | conserve | 节省 | conserve bandwidth - 节省带宽 |
+| tweak | 稍微调整 | |
+| abstraction | 抽象化 | |
+| boost | 提高 | boost performance - 提高性能 |
+| resolution | 分辨率，解析度；解析 | module resolution - 模块解析 |
+| enhanced | 增强的 | |
+| resolve | 解析 | |
+| purge | 清除 | 类似于 clear |
+| identical | 完全相同的 | 类似于 equal |
+| transformation | 转换 | |
+| concise | 简明的 | |
+| arbitrary | 任意的 | 类似于 any |
+| utilize | 使用，利用 | 类似于 use |
+
+## Tech Words but not valid vocabulary
+
+| Word | 中文 |
+| ---- | ---- |
+| symlinked | 符号链接的 |

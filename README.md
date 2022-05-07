@@ -46,6 +46,7 @@ Vocabularies for programmers
 | concise | 简明的 | |
 | arbitrary | 任意的 | 类似于 any |
 | utilize | 使用，利用 | 类似于 use |
+| pseudo | 伪的，假的 | pseudo class - 伪类 |
 
 ## Tech Words but not valid vocabulary
 

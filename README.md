@@ -47,6 +47,10 @@ Vocabularies for programmers
 | arbitrary | 任意的 | 类似于 any |
 | utilize | 使用，利用 | 类似于 use |
 | pseudo | 伪的，假的 | pseudo class - 伪类 |
+| shrink | 缩小，收缩 | flex-shrink - 弹性收缩 |
+| grow | 长大，扩大 | flex-grow - 弹性扩大 |
+| dimention | 维度 | two-dimention - 二维(2D) |
+| collapse | 塌陷，折叠 | margin collapsing - 外边距塌陷 |
 
 ## Tech Words but not valid vocabulary
 

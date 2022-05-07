@@ -51,6 +51,7 @@ Vocabularies for programmers
 | grow | 长大，扩大 | flex-grow - 弹性扩大 |
 | dimention | 维度 | two-dimention - 二维(2D) |
 | collapse | 塌陷，折叠 | margin collapsing - 外边距塌陷 |
+| partial | 部分的，不完整的的 | |
 
 ## Tech Words but not valid vocabulary
 

@@ -16,6 +16,12 @@ Vocabularies for programmers
 | Word | 中文 |
 | ---- | --- |
 | ellipsis | 省略号 |
+| axis | 轴 | main axis - 主轴，cross axis - 交叉轴 |
+| pseudo | 伪的，假的 | pseudo class - 伪类 |
+| shrink | 缩小，收缩 | flex-shrink - 弹性收缩 |
+| grow | 长大，扩大 | flex-grow - 弹性扩大 |
+| dimention | 维度 | two-dimention - 二维(2D) |
+| collapse | 塌陷，折叠 | margin collapsing - 外边距塌陷 |
 
 ## Browser
 
@@ -24,6 +30,12 @@ Vocabularies for programmers
 | Gecko | 壁虎 | Firefox渲染引擎 |
 | Blink | 闪烁 | Chrome/Opera/Edge渲染引擎 |
 | Webkit |    | Safari渲染引擎 |
+
+## UI
+
+| Word | 中文 | 备注 |
+| ---- | --- | ---- |
+| saturation | 饱和度 | |
 
 ## Common
 
@@ -46,13 +58,8 @@ Vocabularies for programmers
 | concise | 简明的 | |
 | arbitrary | 任意的 | 类似于 any |
 | utilize | 使用，利用 | 类似于 use |
-| pseudo | 伪的，假的 | pseudo class - 伪类 |
-| shrink | 缩小，收缩 | flex-shrink - 弹性收缩 |
-| grow | 长大，扩大 | flex-grow - 弹性扩大 |
-| dimention | 维度 | two-dimention - 二维(2D) |
-| collapse | 塌陷，折叠 | margin collapsing - 外边距塌陷 |
 | partial | 部分的，不完整的的 | |
-| axis | 轴 | main axis - 主轴，cross axis - 交叉轴 |
+
 
 ## Tech Words but not valid vocabulary
 

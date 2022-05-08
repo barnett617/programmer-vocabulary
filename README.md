@@ -52,6 +52,7 @@ Vocabularies for programmers
 | dimention | 维度 | two-dimention - 二维(2D) |
 | collapse | 塌陷，折叠 | margin collapsing - 外边距塌陷 |
 | partial | 部分的，不完整的的 | |
+| axis | 轴 | main axis - 主轴，cross axis - 交叉轴 |
 
 ## Tech Words but not valid vocabulary
 

@@ -64,6 +64,7 @@ Vocabularies for programmers
 | priority | 优先级 | P0/P1/P2 |
 | discard | 舍弃 | |
 | inspect | 检查，审查 | |
+| contrast | 对比，比较 | |
 
 
 ## Tech Words but not valid vocabulary

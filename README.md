@@ -74,6 +74,21 @@ Vocabularies for programmers
 | stale | 陈旧的 | go stale - 废弃，失效 |
 | demonstrate | 展示，示范 | |
 | illustrate | 图示，阐述 | |
+| appropriate | 合适的，恰当的 | |
+| approximate | 大概的，近似的 | |
+| involve | 包含，涉及 | |
+| evolve | 演变，进化 | |
+| resolve | 解析，分解 | |
+| ambiguity | 歧义，模棱两可，不确定性 | |
+| imply | 蕴含，暗指 | |
+| reflect | 反射，反映 | |
+| incorporate | 合并 | |
+| cooperate | 合作，协作 | |
+| collaborate | 有明确目的的合作协作 | |
+| obsolete | 已废弃的，陈旧的，作废的 | |
+| unified | 统一的 | |
+| encounter | 遭遇，遭到，遇到 | |
+| intervetion | 介入，干涉，调停 | |
 
 
 ## Tech Words but not valid vocabulary

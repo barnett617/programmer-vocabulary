@@ -62,6 +62,8 @@ Vocabularies for programmers
 | harbor | 港湾，海港 | docker中常见 |
 | docker | 码头工人，集装箱 | |
 | priority | 优先级 | P0/P1/P2 |
+| discard | 舍弃 | |
+| inspect | 检查，审查 | |
 
 
 ## Tech Words but not valid vocabulary

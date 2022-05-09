@@ -65,6 +65,15 @@ Vocabularies for programmers
 | discard | 舍弃 | |
 | inspect | 检查，审查 | |
 | contrast | 对比，比较 | |
+| potential | 潜在的，可能的 | |
+| prune | 剪枝，修剪 | |
+| individual | 独特的，个体的 | |
+| indentify | 确认，找到 | confirm, find |
+| explicit | 显式的，清楚明白的 | |
+| implicit | 隐式的，含蓄的，隐性的 | |
+| stale | 陈旧的 | go stale - 废弃，失效 |
+| demonstrate | 展示，示范 | |
+| illustrate | 图示，阐述 | |
 
 
 ## Tech Words but not valid vocabulary

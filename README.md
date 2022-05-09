@@ -59,6 +59,9 @@ Vocabularies for programmers
 | arbitrary | 任意的 | 类似于 any |
 | utilize | 使用，利用 | 类似于 use |
 | partial | 部分的，不完整的的 | |
+| harbor | 港湾，海港 | docker中常见 |
+| docker | 码头工人，集装箱 | |
+| priority | 优先级 | P0/P1/P2 |
 
 
 ## Tech Words but not valid vocabulary

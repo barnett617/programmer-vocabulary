@@ -94,6 +94,12 @@ Vocabularies for programmers
 | fast-forward | 快进 | |
 | leash | 拴住，束缚，控制 | |
 | unleash | 释放，解放，发动 | |
+| diverge | 分歧，分岔 | |
+| dedicated | 专用的，专门用途的 | |
+| facilitate | 促进，易化 | |
+| symbolic | 象征性的，有象征性的 | |
+| isolated | 隔离的 | |
+| affected | 受影响的 | |
 
 
 ## Tech Words but not valid vocabulary

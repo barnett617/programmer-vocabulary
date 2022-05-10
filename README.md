@@ -92,6 +92,8 @@ Vocabularies for programmers
 | bisect | 二等分 | |
 | behind | 落后的 | fall behind - 落在后面 |
 | fast-forward | 快进 | |
+| leash | 拴住，束缚，控制 | |
+| unleash | 释放，解放，发动 | |
 
 
 ## Tech Words but not valid vocabulary

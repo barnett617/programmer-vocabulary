@@ -107,6 +107,8 @@ Vocabularies for programmers
 | tangible | 可感知的，明确的 | |
 | investigate | 调查研究，审查，考察 | |
 | regression | 回归分析 | |
+| refined | 精炼的 | |
+| accordingly | 照着办，于是，因此，照着 | |
 
 
 ## Tech Words but not valid vocabulary

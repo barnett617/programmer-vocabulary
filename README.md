@@ -100,6 +100,13 @@ Vocabularies for programmers
 | symbolic | 象征性的，有象征性的 | |
 | isolated | 隔离的 | |
 | affected | 受影响的 | |
+| pitfall | 隐患，陷阱 | trap |
+| perspective | 视角 | |
+| accomplish | 完成，实现 | achieve |
+| pretend | 假装，佯装，自称 | |
+| tangible | 可感知的，明确的 | |
+| investigate | 调查研究，审查，考察 | |
+| regression | 回归分析 | |
 
 
 ## Tech Words but not valid vocabulary

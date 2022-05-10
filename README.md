@@ -89,6 +89,9 @@ Vocabularies for programmers
 | unified | 统一的 | |
 | encounter | 遭遇，遭到，遇到 | |
 | intervetion | 介入，干涉，调停 | |
+| bisect | 二等分 | |
+| behind | 落后的 | fall behind - 落在后面 |
+| fast-forward | 快进 | |
 
 
 ## Tech Words but not valid vocabulary

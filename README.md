@@ -96,6 +96,7 @@ Vocabularies for programmers
 
 ## Tech Words but not valid vocabulary
 
-| Word | 中文 |
-| ---- | ---- |
-| symlinked | 符号链接的 |
+| Word | 中文 | 备注 |
+| ---- | ---- | ----- |
+| symlinked | 符号链接的 | |
+| darcula | 德库拉伯爵 | Darcula Theme |

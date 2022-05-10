@@ -122,6 +122,10 @@ Vocabularies for programmers
 | caveat | 警告，告诫 | warning ⚠️ |
 | stray | 走失，偏离整体 | |
 | remedy | 纠正，改正 | |
+| disclaimer | 免责声明，不承诺，否认 | |
+| mechanism | 机制，构造 | |
+| restructure | 调整结构，重组 | |
+| amend | 修改，修订，改正 | |
 
 
 ## Tech Words but not valid vocabulary

@@ -99,4 +99,4 @@ Vocabularies for programmers
 | Word | 中文 | 备注 |
 | ---- | ---- | ----- |
 | symlinked | 符号链接的 | |
-| darcula | 德库拉伯爵 | Darcula Theme |
+| dracula | 吸血鬼 | Dracula Theme |

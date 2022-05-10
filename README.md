@@ -109,6 +109,19 @@ Vocabularies for programmers
 | regression | 回归分析 | |
 | refined | 精炼的 | |
 | accordingly | 照着办，于是，因此，照着 | |
+| superfluous | 多余的，过剩的，不必要的 | |
+| progress | 前进，发展，取得进展 | |
+| abruptly | 突然地，猛然 | |
+| vanish | 消失，突然不见 | |
+| squash | 压扁，塞入，使挤进 | |
+| playback | 重放，重播，再现 | |
+| recap | 概要重述，概括，回顾 | |
+| afford | 给予，提供 | |
+| polish | 打磨，抛光，擦亮 | |
+| insignificant | 无关紧要的，不重要的，微不足道的，无足轻重的 | |
+| caveat | 警告，告诫 | warning ⚠️ |
+| stray | 走失，偏离整体 | |
+| remedy | 纠正，改正 | |
 
 
 ## Tech Words but not valid vocabulary

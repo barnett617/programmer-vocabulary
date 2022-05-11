@@ -127,6 +127,8 @@ Vocabularies for programmers
 | restructure | 调整结构，重组 | |
 | amend | 修改，修订，改正 | |
 | retrieve | 检索，重新得到 | |
+| dracula | 吸血鬼 | Dracula Theme |
+| emoticon | 表情符号 | 😄 |
 
 
 ## Tech Words but not valid vocabulary
@@ -134,4 +136,3 @@ Vocabularies for programmers
 | Word | 中文 | 备注 |
 | ---- | ---- | ----- |
 | symlinked | 符号链接的 | |
-| dracula | 吸血鬼 | Dracula Theme |

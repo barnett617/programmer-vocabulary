@@ -126,6 +126,7 @@ Vocabularies for programmers
 | mechanism | 机制，构造 | |
 | restructure | 调整结构，重组 | |
 | amend | 修改，修订，改正 | |
+| retrieve | 检索，重新得到 | |
 
 
 ## Tech Words but not valid vocabulary

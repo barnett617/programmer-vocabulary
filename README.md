@@ -41,6 +41,7 @@ Vocabularies for programmers
 
 | Word | 中文 | 备注 |
 | ---- | ---- | --- |
+| recipe | 食谱，配方 | |
 | truncate | 截断 |  |
 | potential | 潜在的，可能的 | |
 | periodical | 周期的 | |

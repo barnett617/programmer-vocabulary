@@ -129,6 +129,7 @@ Vocabularies for programmers
 | retrieve | 检索，重新得到 | |
 | dracula | 吸血鬼 | Dracula Theme |
 | emoticon | 表情符号 | 😄 |
+| replicate | 复制 | |
 
 
 ## Tech Words but not valid vocabulary

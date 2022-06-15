@@ -37,6 +37,12 @@ Vocabularies for programmers
 | ---- | --- | ---- |
 | saturation | 饱和度 | |
 
+## Web
+
+| Word | 中文 | 备注 |
+| ---- | ---- | --- |
+| vital | 至关重要的 | web vital |
+
 ## Common
 
 | Word | 中文 | 备注 |

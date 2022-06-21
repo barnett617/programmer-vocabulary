@@ -47,6 +47,8 @@ Vocabularies for programmers
 
 | Word | 中文 | 备注 |
 | ---- | ---- | --- |
+| glob | 展开通配符 | 一滴，一团 |
+| blob | 二进制大对象 | 难以名状的一团 |
 | recipe | 食谱，配方 | |
 | truncate | 截断 |  |
 | potential | 潜在的，可能的 | |
